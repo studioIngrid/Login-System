@@ -1,6 +1,6 @@
 # Login System
 
-Owner of the code [phptutorial.net](https://www.phptutorial.net/).
+Owner of the code is [phptutorial.net](https://www.phptutorial.net/).
 
 On this repository the code is just compiled to one structure.\
 Also there is fixed some flaws. 
